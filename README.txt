@@ -1,19 +1,17 @@
-Dimension by HTML5 UP
+Portfolio Website
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+This is my personal portfolio website designed to showcase my projects, skills, and experiences. It's a fully responsive website, accessible across devices and screen sizes.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Features
+Responsive Design: Works seamlessly on all screen sizes.
+Interactive UI: Easy navigation with clear sections for projects, skills, and contact.
+Cross-browser compatibility: Optimized for different browsers.
 
-(* = not included)
+Technologies Used
+HTML5,CSS3,JavaScript
+Bootstrap for responsive design
 
-AJ
-aj@lkn.io | @ajlkn
-
-
+Feel free to adjust it based on the specifics of your project!
 Credits:
 
 	Demo Images:
